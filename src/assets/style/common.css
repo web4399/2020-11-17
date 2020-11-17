@@ -1,0 +1,38 @@
+
+.el-menu-vertical-demo{
+    background-color:#383D4A !important;
+}
+
+.el-menu-item.is-active {
+    background-color: #1D4079 !important;
+ }
+.el-menu-item:hover{
+    background-color: #50566E !important;
+}
+.el-menu-item:active{
+    background-color: #1D4079 !important;
+}
+.el-menu-item{
+    text-align: center;
+    font-size: 14px;
+}
+
+.el-submenu__title{
+    text-align: center;
+    font-size: 18px;
+
+    
+}
+
+.el-breadcrumb__inner{
+    font-size: 16px;
+    color: #999999;
+}
+
+.dianpu{
+    font-size: 16px;
+    color: #5A9EF7 !important;
+}
+
+
+

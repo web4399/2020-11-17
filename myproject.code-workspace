@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../nodeserve"
+		},
+		{
+			"path": "../../../奥信支付/ifsp-pmp-web"
+		},
+		{
+			"path": "../cxyh-wx"
+		},
+		{
+			"path": "../../../../other"
+		},
+		{
+			"path": "../../Doc/03-设计开发/04-接口文档/网银/网银相关文档/网银网页控件/demo"
+		},
+		{
+			"path": "../cxbank-wx"
+		},
+		{
+			"path": "../../Doc/03-设计开发/04-接口文档/活体检测/cw-video-liveness-h5-sdk_1.2.1-wink(1)/demo/client-vue"
+		},
+		{
+			"path": "../../../online"
+		},
+		{
+			"path": "../../../供应链/cxyh_mng"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "other"
+	}
+}
